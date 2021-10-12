@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAdsModual</string>
+
+    <string name="com_mopub_nativeads_sponsored_by">Sponsored by %s</string>
+    <string name="learn_more">Learn More</string>
+    <string name="native_privacy_information_icon_image">Privacy Information Icon image</string>
+    <string name="native_main_image">native_main_image</string>
+</resources>

@@ -1,0 +1,3 @@
+rootProject.name = "ADsLibry"
+include ':app'
+include ':ADs'
